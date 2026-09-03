@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment (based on your my-venv folder)
+my-venv/
+.venv/
+env/
+ENV/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project Results & Logs (Outputs, trained models, figures)
+results/models/*
+results/logs/*
+results/figures/*
+!results/models/.gitkeep
+!results/logs/.gitkeep
+!results/figures/.gitkeep
+
+# OS Files
+.DS_Store
+Thumbs.db
