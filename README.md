@@ -903,4 +903,4 @@ Agentic AI Systems
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is made for learning and academic purpose.
